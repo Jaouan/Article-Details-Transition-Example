@@ -1,5 +1,6 @@
 Android - Article details transition example
 ========
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Article--Details--Transition--Example-green.svg?style=true)](https://android-arsenal.com/details/3/4114)
 
 It's just some examples of material transitions.
 
