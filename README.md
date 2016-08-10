@@ -1,9 +1,18 @@
 Android - Article details transition example
 ========
 
-It's just an example of material transition more or less inspired by [Ivan Bjelajac's inspiration](http://www.materialup.com/posts/article-details-transition).
+It's just some examples of material transitions.
 
-![demo](art/demo.gif)
+### Pop from top
+![demo](art/popfromtop.gif)
+
+### Pop from item
+![demo](art/popfromitem.gif)
+
+References
+========
+ - "Pop from top" transition by ![http://www.materialup.com/posts/article-details-transition](Ivan Bjelajac's transition).
+ - The project uses ![http://jakewharton.github.io/butterknife/](ButterKnife).
 
 License
 ========
