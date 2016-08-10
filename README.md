@@ -4,11 +4,8 @@ Android - Article details transition example
 
 It's just some examples of material transitions.
 
-### Pop from top
-![demo](art/popfromtop.gif)
-
-### Pop from item
-![demo](art/popfromitem.gif)
+|Pop from top|Pop from item|
+|![demo](art/popfromtop.gif)|![demo](art/popfromitem.gif)|
 
 References
 ========
