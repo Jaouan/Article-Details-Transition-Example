@@ -10,8 +10,8 @@ Pop from top|Pop from item
 
 References
 ========
- - "Pop from top" transition by ![http://www.materialup.com/posts/article-details-transition](Ivan Bjelajac's transition).
- - The project uses ![http://jakewharton.github.io/butterknife/](ButterKnife).
+ - "Pop from top" transition by [Ivan Bjelajac's transition](http://www.materialup.com/posts/article-details-transition).
+ - The project uses [ButterKnife](http://jakewharton.github.io/butterknife/).
 
 License
 ========
